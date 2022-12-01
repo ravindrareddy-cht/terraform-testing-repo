@@ -3,5 +3,4 @@
 .idea/*
 /workspace.xml
 .terraform/*
-.terraform.lock.hcl
 .git/*
