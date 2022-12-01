@@ -1,4 +1,7 @@
+# Default ignored files
+/shelf/
+.idea/*
+/workspace.xml
 .terraform/*
-.terraform-version
 .terraform.lock.hcl
-
+.git/*
